@@ -1,0 +1,19 @@
+img {
+	border: 2px solid black;
+}
+
+h1 {
+	color: orange;
+}
+
+h3 {
+	border-bottom: 1px solid black;
+}
+
+a {
+	color: hotpink;
+}
+
+li {
+	list-style: none;
+}
